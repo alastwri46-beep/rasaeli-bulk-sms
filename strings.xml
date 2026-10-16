@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">رسائلي الجماعية</string>
+    <string name="permission_required">يلزم منح إذن إرسال رسائل SMS لإتمام العملية</string>
+</resources>
